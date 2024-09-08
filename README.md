@@ -28,10 +28,3 @@ This stopwatch allows users to start, stop, and reset a timer. The display updat
 6. **Tailwind CSS Styling**:
    The app uses Tailwind CSS for quick, utility-first styling, ensuring the UI is responsive and well-designed with minimal custom CSS.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-stopwatch.git
-   cd react-stopwatch
